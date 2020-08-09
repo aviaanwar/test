@@ -1,0 +1,15 @@
+{
+  "name": "learnnode",
+  "version": "1.0.0",
+  "description": "1st",
+  "main": "pro.js",
+  "scripts": {
+    "start": "nodemon pro.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
