@@ -11,5 +11,5 @@ router.use('/add-product', (req, res, next) => {
   router.post('/product', (req, res, next) => {
       console.log(req.body);
       res.redirect('/');
-  });
+  });//abc
 module.export=router;
